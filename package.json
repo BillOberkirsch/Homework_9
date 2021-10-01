@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillOberkirsch/Homework_9.git"
+  },
+  "author": "Bill Oberkirsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillOberkirsch/Homework_9/issues"
+  },
+  "homepage": "https://github.com/BillOberkirsch/Homework_9#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "util": "^0.12.4"
+  }
+}
