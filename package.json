@@ -1,23 +1,24 @@
 {
-  "name": "readme_generator",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "readme generator",
+  "description": "a node application that creates a professional readme based on user input criteria",
   "main": "index.js",
   "scripts": {
-    "test": "na"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BillOberkirsch/Homework_9.git"
+    "url": "git+https://github.com/jpd61/README-generator.git"
   },
-  "author": "Bill Oberkirsch",
+  "author": "Joseph DeWoody",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BillOberkirsch/Homework_9/issues"
+    "url": "https://github.com/jpd61/README-generator/issues"
   },
-  "homepage": "https://github.com/BillOberkirsch/Homework_9#readme",
+  "homepage": "https://github.com/jpd61/README-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.5",
-    "util": "^0.12.4"
+    "axios": "^0.22.0",
+    "inquirer": "^7.1.0",
+    "util": "^0.12.3"
   }
 }
